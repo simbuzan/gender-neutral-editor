@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle gender-neutral-web-editor",
+        "command": "gender-neutral-web-editor:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "gender-neutral-web-editor",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "gender-neutral-web-editor:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
