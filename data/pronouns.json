@@ -1,0 +1,26 @@
+{
+	"Pronouns": {
+		"Personal": [
+      {
+				"m": "er",
+				"f": "sie",
+				"n": "es"
+			},
+			{
+				"m": "ihn",
+				"f": "sie",
+				"n": "es"
+			},
+			{
+				"m": "ihm",
+				"f": "ihr",
+				"n": "ihm"
+			},
+			{
+				"m": "seiner",
+				"f": "ihrer",
+				"n": "seiner"
+			}
+		]
+	}
+}
