@@ -1,4 +1,5 @@
 {
+	"Pronouns": {
 		"Personal": [
       {
 				"m": "er",
@@ -20,5 +21,257 @@
 				"f": "ihrer",
 				"n": "seiner"
 			}
+		],
+		"Possesive": [
+			{
+				"m": "sein",
+				"f": "ihr",
+				"n": "sein"
+			},
+			{
+				"m": "seines",
+				"f": "ihres",
+				"n": "seins"
+			},
+			{
+				"m": "seine",
+				"f": "ihre",
+				"n": "seine"
+			},
+			{
+				"m": "seines",
+				"f": "ihres",
+				"n": "seines"
+			},
+			{
+				"m": "seinem",
+				"f": "ihrem",
+				"n": "seinem"
+			},
+			{
+				"m": "seiner",
+				"f": "ihrer",
+				"n": "seiner"
+			},
+			{
+				"m": "seinen",
+				"f": "ihren",
+				"n": "seinen"
+			}
+		],
+		"Demonstrative": [
+			{
+				"m": "dieser",
+				"f": "diese",
+				"n": "dieses"
+			},
+			{
+				"m": "dieses",
+				"f": "dieser",
+				"n": "dieses"
+			},
+			{
+				"m": "diesem",
+				"f": "dieser",
+				"n": "diesem"
+			},
+			{
+				"m": "diesen",
+				"f": "diese",
+				"n": "dieses"
+			},
+			{
+				"m": "jener",
+				"f": "jene",
+				"n": "jenes"
+			},
+			{
+				"m": "jenes",
+				"f": "jener",
+				"n": "jenes"
+			},
+			{
+				"m": "jenem",
+				"f": "jener",
+				"n": "jenem"
+			},
+			{
+				"m": "jenen",
+				"f": "jene",
+				"n": "jenes"
+			},
+			{
+				"m": "derjenige",
+				"f": "diejenige",
+				"n": "dasjenige"
+			},
+			{
+				"m": "desjenigen",
+				"f": "derjenigen",
+				"n": "desjenigen"
+			},
+			{
+				"m": "demjenigen",
+				"f": "derjenigen",
+				"n": "demjenigen"
+			},
+			{
+				"m": "denjenigen",
+				"f": "diejenige",
+				"n": "dasjenige"
+			},
+			{
+				"m": "derselbe",
+				"f": "dieselbe",
+				"n": "dasselbe"
+			},
+			{
+				"m": "desselben",
+				"f": "derselben",
+				"n": "desselben"
+			},
+			{
+				"m": "demselben",
+				"f": "derselben",
+				"n": "demselben"
+			},
+			{
+				"m": "denselben",
+				"f": "dieselbe",
+				"n": "dasselbe"
+			}
+		],
+		"Indefinite": [
+      {
+				"m": "jeder",
+				"f": "jede",
+				"n": "jedes"
+			},
+			{
+				"m": "jeden",
+				"f": "jede",
+				"n": "jedes"
+			},
+			{
+				"m": "jedem",
+				"f": "jeder",
+				"n": "jedem"
+			}
+		],
+		"Relative": [
+      {
+				"m": "dessen",
+				"f": "deren",
+				"n": "dessen"
+			},
+			{
+				"m": "dem",
+				"f": "der",
+				"n": "dem"
+			},
+			{
+				"m": "den",
+				"f": "die",
+				"n": "das"
+			}
+		],
+		"Interrogative": [
+			{
+				"m": "welcher",
+				"f": "welche",
+				"n": "welches"
+			},
+			{
+				"m": "welches",
+				"f": "welcher",
+				"n": "welches"
+			},
+			{
+				"m": "welchem",
+				"f": "welcher",
+				"n": "welchem"
+			},
+			{
+				"m": "welchen",
+				"f": "welche",
+				"n": "welches"
+			},
+			{
+				"m": "ein",
+				"f": "eine",
+				"n": "ein"
+			},
+			{
+				"m": "einer",
+				"f": "eine",
+				"n": "eins"
+			},
+			{
+				"m": "eines",
+				"f": "einer",
+				"n": "eines"
+			},
+			{
+				"m": "einem",
+				"f": "einer",
+				"n": "einem"
+			},
+			{
+				"m": "einen",
+				"f": "eine",
+				"n": "ein"
+			},
+			{
+				"m": "einen",
+				"f": "eine",
+				"n": "eins"
+			}
 		]
+	},
+	"Article": {
+		"Determined": [
+			{
+				"m": "der",
+				"f": "die",
+				"n": "das"
+			},
+			{
+				"m": "des",
+				"f": "der",
+				"n": "des"
+			},
+			{
+				"m": "dem",
+				"f": "der",
+				"n": "dem"
+			},
+			{
+				"m": "den",
+				"f": "die",
+				"n": "das"
+			}
+		],
+		"Undetermined": [
+			{
+				"m": "ein",
+				"f": "eine",
+				"n": "ein"
+			},
+			{
+				"m": "eines",
+				"f": "einer",
+				"n": "eines"
+			},
+			{
+				"m": "einem",
+				"f": "einer",
+				"n": "einem"
+			},
+			{
+				"m": "einen",
+				"f": "eine",
+				"n": "ein"
+			}
+		]
+	}
 }
