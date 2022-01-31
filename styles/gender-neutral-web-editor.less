@@ -3,6 +3,15 @@
 // See https://github.com/atom/atom-dark-ui/blob/master/styles/ui-variables.less
 // for a full listing of what's available.
 @import "ui-variables";
+@underline-trailing-whitespace-color: @text-color-warning;
+
 
 .gender-neutral-web-editor {
+    .trailing-whitespace {
+      border-bottom: thin solid @underline-trailing-whitespace-color;
+    }
+
+    .cursor-line .trailing-whitespace {
+      border-bottom: 0;
+    }
 }
