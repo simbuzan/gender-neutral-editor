@@ -4,5 +4,6 @@ Das neue Theaterspiel hat ihnen sehr gefallen. Es wurde von zwei rumänischen Re
 Studenten haben geholfen, die Bühne zu bauen und die Hintergrundbilder zu malen.
 Zwei Studenten sind zu spät gekommen: "Einer von euch müsste Bananen kaufen gehen, alle anderen haben zu tun".
 Petra ist dann gegangen.
-<span data-first="Besucher" data-second="Besucherinnen" data-third="Besuchende" data-y="Besuchende">' + Besucher + '</span> meinte es ist sehr schön gewesen. Einer musste aber die ganze Zeit husten.
+<span data-first="Besucher" data-second="Besucherinnen" data-third="Besuchende" data-y="Besuchende">' Besuchende '</span> meinte es ist sehr schön gewesen. Einer musste aber die ganze Zeit husten.
+
 Nächstes mal ich mit ihnen!
