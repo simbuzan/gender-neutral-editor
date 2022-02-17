@@ -7,4 +7,6 @@ Petra ist dann gegangen.
 Besucher meinte es ist sehr schön gewesen. Einer musste aber die ganze Zeit husten.
 
 Nächstes mal gehe ich mit ihnen!
-<span data-first="Psycholog" data-second="in" data-third="Psychology" data-y="y">' Psychology '</span>
+<span data-first="Psycholog" data-second="in" data-third="" data-y="y">' Psychology '</span>
+
+Mamma mia, er war einmal... 
