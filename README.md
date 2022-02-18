@@ -1,5 +1,3 @@
 # gender-neutral-web-editor package
 
-A short description of your package.
-
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+The gender-neutral editor helps mark grammatically gendered German words, in preparation for Gendy: https://github.com/soeren-kirchner/gendy, a script allowing readers of a web page to change the gendering style of marked words.
