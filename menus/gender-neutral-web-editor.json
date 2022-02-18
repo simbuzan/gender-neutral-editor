@@ -2,7 +2,7 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle gender-neutral-web-editor",
+        "label": "Toggle Gender-neutral Editor",
         "command": "gender-neutral-web-editor:toggle"
       }
     ]
@@ -12,7 +12,7 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "gender-neutral-web-editor",
+          "label": "Gender-neutral Editor",
           "submenu": [
             {
               "label": "Toggle",
